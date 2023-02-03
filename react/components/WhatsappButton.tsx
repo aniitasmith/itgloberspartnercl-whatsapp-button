@@ -38,7 +38,7 @@ WhatsappButton.propTypes = {
 WhatsappButton.defaultProps = {
   logo: 'logo.png',
   phone: '+16478961111',
-  message: 'Estoy interesado en contactar con ustedes sobre el producto...',
+  message: 'Estoy interesado en el siguiente producto..',
   width: 120,
   height: 120,
 }

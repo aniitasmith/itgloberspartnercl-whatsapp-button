@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-target-blank */
 import React from 'react'
 import PropTypes from 'prop-types'
 
@@ -38,8 +37,8 @@ WhatsappButton.propTypes = {
 
 WhatsappButton.defaultProps = {
   logo: 'logo.png',
-  phone: '6547896511',
-  message: 'prueba prueba',
+  phone: '+16478961111',
+  message: 'Estoy interesado en contactar con ustedes sobre el producto...',
   width: 120,
   height: 120,
 }

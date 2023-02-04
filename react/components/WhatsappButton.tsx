@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from 'react'
 import PropTypes from 'prop-types'
 
@@ -18,7 +19,7 @@ const WhatsappButton = ({ logo, phone, message, width, height }: Props) => {
         <a
           href={`https://wa.me/${phone}?text=${formattedMessage}`}
           target="_blank"
-          rel="noreferrer noopener"
+          rel="noopener noreferrer"
         >
           <img src={logo} width={width} height={height} alt="Whatsapp" />
         </a>

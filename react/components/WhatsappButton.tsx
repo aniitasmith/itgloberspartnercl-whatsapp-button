@@ -19,7 +19,7 @@ const WhatsappButton = ({ logo, phone, message, width, height }: Props) => {
         <a
           href={`https://wa.me/${phone}?text=${formattedMessage}`}
           target="_blank"
-          rel="noreferrrer noopener"
+          rel="noopener noreferrer"
         >
           <img src={logo} width={width} height={height} alt="Whatsapp" />
         </a>
@@ -38,8 +38,8 @@ WhatsappButton.propTypes = {
 
 WhatsappButton.defaultProps = {
   logo: 'logo.png',
-  phone: '6547896511',
-  message: 'prueba prueba',
+  phone: '+16478961111',
+  message: 'Estoy interesado en el siguiente producto..',
   width: 120,
   height: 120,
 }

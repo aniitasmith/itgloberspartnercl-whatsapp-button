@@ -2,11 +2,11 @@
 
 <!-- DOCS-IGNORE:start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)]
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-The Whatsapp Button is a component that allows the user to access the store's whatsapp chat and thus receive personalized attention
+The Whatsapp Button is a component that allows the user to access the store's whatsapp chat and this receive personalized attention
 
 <img width="1918" alt="image" src="https://user-images.githubusercontent.com/66226368/219792613-cf0d1ce3-315b-413c-86ef-4919db373d9a.png">
 

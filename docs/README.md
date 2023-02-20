@@ -8,9 +8,7 @@
 
 The Whatsapp Button is a component that allows the user to access the store's whatsapp chat and thus receive personalized attention
 
-
 <img width="1918" alt="image" src="https://user-images.githubusercontent.com/66226368/219792613-cf0d1ce3-315b-413c-86ef-4919db373d9a.png">
-
 
 ## Configuration 
 
@@ -21,7 +19,6 @@ The Whatsapp Button is a component that allows the user to access the store's wh
     "{vendor}.whatsapp-button": "0.x"
   }
 ```
-
 2. Add the whatsapp-button block to the store-theme. For example:
 
 ```json
@@ -47,13 +44,13 @@ The Whatsapp Button is a component that allows the user to access the store's wh
   
   ### The whatsapp-button props
 
-| Prop name    | Type            | Description    | Default value                                                                                                                               |
-| ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
-| `logo`        | `String`       | Define the url of the image that will be used for the whatsapp button          | `undefined`              |
-| `phone`  | `String`        | Defines the WhatsApp number that the store uses to provide customer service                                                                                        | `+1234578` |
-| `message` | `String`        | Define the welcome message that the client will see when entering the WhatsApp chat                                                                                      | `Hello we help you?` |
-| `width` | `Number`        | Define the width of the button                                                                                      | `120` |
-| `height` | `Number`        | Define the height of the button                                                                                    | `120` |
+| Prop name    | Type            | Description                                                                               | Default value    |
+| ------------ | --------------- | ----------------------------------------------------------------------------------------- | ---------------- | 
+| `logo`       | `String`        | Define the url of the image that will be used for the whatsapp button                     | `undefined` |
+| `phone`      | `String`        | Defines the WhatsApp number that the store uses to provide customer  service              | `+1234578` |
+| `message`    | `String`        | Define the welcome message that the client will see when entering the WhatsApp chat       | `Hello we help you?` |
+| `width`      | `Number`        | Define the width of the button                                                            | `120` |
+| `height`     | `Number`        | Define the height of the button                                                           | `120` |
 
 ## Customization
 

@@ -15,7 +15,7 @@ The Whatsapp Button is a component that allows the user to access the store's wh
 1. Import the whatsapp-button's app to your theme's dependencies in the manifest.json, for example:
 
 ```json
-  dependencies: {
+  "dependencies": {
     "{vendor}.whatsapp-button": "0.x"
   }
 ```
